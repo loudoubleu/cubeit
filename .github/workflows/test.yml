@@ -1,7 +1,6 @@
 name: Tests
 on:
   push:
-    - push
 jobs:
   test:
     runs-on: windows-latest
